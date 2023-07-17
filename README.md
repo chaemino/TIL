@@ -15,7 +15,7 @@ Today I Learned
    - | date | content |
      |:---:|:---:|
      | 2023.07.16 | overview and what is ML |
-     | 2023.07.17 | supervised learning|
+     | 2023.07.17 | [supervised learning](https://github.com/chaemino/TIL/blob/main/Supervised%20Machine%20Learning%3A%20Regression%20and%20Classification/supervised_learning.md)|
 
 
 ### (LAB) Deep Learning Study
