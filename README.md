@@ -14,7 +14,8 @@ Today I Learned
    - [URL](https://www.coursera.org/learn/machine-learning/home/)
    - | date | content |
      |:---:|:---:|
-     | 2023.07.16 | overview and what is ML |  
+     | 2023.07.16 | overview and what is ML |
+     | 2023.07.17 | supervised learning|
 
 
 ### (LAB) Deep Learning Study
