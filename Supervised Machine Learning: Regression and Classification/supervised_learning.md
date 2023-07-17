@@ -25,4 +25,10 @@ and try to produce the appropriate corresponding output y.
   - which is a type of supervised learning algorithm learns to predict numbers out of infinitely many possible numbers.
 
 - classification
-  - 
+  - predict categories.
+  - <img width="604" alt="image" src="https://github.com/chaemino/TIL/assets/107089629/96a4394a-2255-4afe-b04f-7c7390fc0031">
+  - the learning algorithm has to decide how to fit a boundary line through these data.
+
+|regression | classification |
+|--|--|
+| predict numbers from infinitely many possible output numbers. | make a prediction of a category. |
