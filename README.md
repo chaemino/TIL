@@ -24,4 +24,4 @@ Today I Learned
    - | date | content |
      |:---:|:---:|
      | 2023.07.04 | Tokenizer |
-     |2023.07.11 | Embedding|
+     |2023.08.15 | [Embedding](https://github.com/chaemino/TIL/blob/main/Deep%20Learning%20Study/Embedding.md)|
