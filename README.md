@@ -25,3 +25,11 @@ Today I Learned
      |:---:|:---:|
      | 2023.07.04 | Tokenizer |
      |2023.08.15 | [Embedding](https://github.com/chaemino/TIL/blob/main/Deep%20Learning%20Study/Embedding.md)|
+
+### 통계적 자연어처리
+
+- 대학원 강의
+   - | date | content |
+     |:---:|:---:|
+     | 2023.09.12 |  |
+     |2023.09.19 | |
